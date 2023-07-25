@@ -1,4 +1,4 @@
-//program to demonstrate on bitwise operator
+//program to demonstrate on bitwise operator &,|,^,>>,<<
 public class BitwiseOperatorDemo {
 
 	public static void main(String[] args) {

@@ -1,4 +1,4 @@
-//program for arithmeticsOperator
+//program for arithmeticsOperator +,-,*,/,%
 package org.tnif.operators;
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-// assignment operator
+// assignment operator +=,-=,*=,/=,=
 public class AssignmentOperatorDemo {
 
 	public static void main(String[] args) {

@@ -1,4 +1,4 @@
-
+//program to demonstrateon logical operator &&, ||
 public class LogicalOperatorDemo {
 
 	public static void main(String[] args) {

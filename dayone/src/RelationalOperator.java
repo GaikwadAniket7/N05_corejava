@@ -1,4 +1,4 @@
-
+//program to demonstrateon relational operator
 public class RelationalOperator {
 
 	public static void main(String[] args) {
